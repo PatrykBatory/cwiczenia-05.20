@@ -1,5 +1,8 @@
 # Cwiczenia
 
+## 2.0.0 (2025.06.10)
+- stworzyłem 2 wersje
+
 ## 1.1.0 (2025.06.10)
 - zmiana w CHANGELOG.md
 
