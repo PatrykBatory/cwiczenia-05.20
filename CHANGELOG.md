@@ -1,5 +1,8 @@
 # Cwiczenia
 
+## 2.0.0 (2025.06.10)
+- stworzyłem 2 wersje
+
 ## 1.2.0 (2025.06.10)
 - wersja nowa
 
